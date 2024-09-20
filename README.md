@@ -1,27 +1,26 @@
-# AngularPortfolio02
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
+# Angular Portfolio
 
-## Development server
+Este projeto destaca minhas habilidades, experiências e projetos desenvolvidos na área de desenvolvimento web.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## ✨ Funcionalidades
 
-## Code scaffolding
+- **Perfil:** Exibe nome, especialização, botão para download do currículo e LinkedIn.
+- **Contato:** Links rápidos para WhatsApp e e-mail utilizando figcaption.
+- **Conhecimentos:** Ícones das principais linguagens e tecnologias que utilizo.
+- **Experiências:** Seção com minhas últimas experiências profissionais.
+- **Projetos:** Miniaturas dos projetos desenvolvidos com descrição em diálogo modal ao clicar.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 💻 Tecnologias Utilizadas
+- Angular
+- Typescript
+- SCSS
+- Node.js
 
-## Build
+## 🙏 Reconhecimentos 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Portfolio Angular foi desenvolvido como parte do curso de Angular(v17+)  - Dener Troquatte. Agradecimentos especiais aos mentores e à comunidade pelo apoio.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## 🎬 Imagens / Vídeos
+![angular-portfolio](https://github.com/user-attachments/assets/43f6f4ad-4523-4cbe-9e34-917815923157)
