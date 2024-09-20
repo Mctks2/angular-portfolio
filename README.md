@@ -1,5 +1,5 @@
 
-# Angular Portfolio
+# Meu Portfólio Angular
 
 Este projeto destaca minhas habilidades, experiências e projetos desenvolvidos na área de desenvolvimento web.
 
@@ -19,7 +19,7 @@ Este projeto destaca minhas habilidades, experiências e projetos desenvolvidos 
 
 ## 🙏 Reconhecimentos 
 
-Portfolio Angular foi desenvolvido como parte do curso de Angular(v17+)  - Dener Troquatte. Agradecimentos especiais aos mentores e à comunidade pelo apoio.
+Meu Portfolio Angular foi desenvolvido como parte do curso de Angular 2 (v17+) Typescript do Básico ao Avançado - Dener Troquatte. Agradecimentos especiais aos mentores e à comunidade pelo apoio.
 
 
 ## 🎬 Imagens / Vídeos
